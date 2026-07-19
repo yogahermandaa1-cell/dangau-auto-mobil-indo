@@ -190,3 +190,12 @@ END;
 -- BUGFIX: rename customers to customer
 -- Commit: fix typo nama tabel
 -- =====================
+
+
+-- =====================
+-- feat: add stored procedure tambah_transaksi
+-- feat: add function hitung_total_transaksi  
+-- feat: add trigger kurangi_stok
+-- feat: add cursor c_transaksi
+-- feat: add exception handling
+-- =====================
