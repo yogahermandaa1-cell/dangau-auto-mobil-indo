@@ -186,3 +186,7 @@ EXCEPTION
 END;
 
 --
+-- =====================
+-- BUGFIX: rename customers to customer
+-- Commit: fix typo nama tabel
+-- =====================
